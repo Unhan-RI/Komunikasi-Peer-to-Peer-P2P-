@@ -11,7 +11,7 @@ Proyek ini mengimplementasikan sistem komunikasi Peer-to-Peer (P2P) dasar menggu
 <li>Deteksi Duplikasi Pesan: Sistem mencegah peer untuk menyiarkan ulang pesan yang sama.</li>
 <li>Skalabilitas Jaringan: Sistem mendukung banyak peer dan dapat menangani penyebaran pesan secara efisien.</li>
 </ul>
-<h4>log and monitoring</h4>
+<h4>Log and Monitoring</h4>
 combined_log.txt: File log ini mencatat event-event berikut:
 Koneksi: Waktu saat koneksi dibuat antara node atau client.
 Pesan Dikirim: Waktu dan isi pesan yang dikirim.
