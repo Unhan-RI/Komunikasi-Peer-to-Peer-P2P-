@@ -12,9 +12,10 @@ Proyek ini mengimplementasikan sistem komunikasi Peer-to-Peer (P2P) dasar menggu
 <li>Skalabilitas Jaringan: Sistem mendukung banyak peer dan dapat menangani penyebaran pesan secara efisien.</li>
 </ul>
 <h4>Log and Monitoring</h4>
-combined_log.txt: File log ini mencatat event-event berikut:
-Koneksi: Waktu saat koneksi dibuat antara node atau client.
-Pesan Dikirim: Waktu dan isi pesan yang dikirim.
-Pesan Diterima: Waktu dan isi balasan dari server.
-Waktu Respon: Waktu yang dibutuhkan untuk memproses permintaan.
-Throughput: Kecepatan transfer data yang diukur dalam bytes per detik.
+<ul>  
+<li>combined_log.txt: File log ini mencatat event-event berikut:</li>
+<li>Koneksi: Waktu saat koneksi dibuat antara node atau client.</li>
+<li>Pesan Dikirim: Waktu dan isi pesan yang dikirim.</li>
+<li>Pesan Diterima: Waktu dan isi balasan dari server.</li>
+<li>Waktu Respon: Waktu yang dibutuhkan untuk memproses permintaan.</li>
+<li>Throughput: Kecepatan transfer data yang diukur dalam bytes per detik.</ul>
